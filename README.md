@@ -29,3 +29,10 @@ We welcome contributions from the community! If you're interested in helping us 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them to your branch.
 4. Open a pull request from your branch to the main branch of the repository.
+
+
+**Explanation**
+
+Here's the video explanation of the whole project:
+
+https://www.youtube.com/watch?v=6ZNhthkLHVw
